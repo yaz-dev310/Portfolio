@@ -1,0 +1,31 @@
+{
+    "who": {
+        "p1": "Hello, I am Arouna Yazid",
+        "p2": "Full stack developer",
+        "p3": "Passionate and experienced in web application development, I have a great knowledge of several programming languages and an ability to work in a team to solve complex problems. I am always looking to learn new technologies to improve my skills and offer innovative solutions."
+    },
+    "contact": {
+        "contactus": "Contact me",
+        "email": "yawarouna10@gmail.com",
+        "portfolio_url": "yazid-delta.vercel.app",
+        "names": "Fullname",
+        "send": "Send",
+        "isend": "Mail sent successfully",
+        "notsend": "Mail not sent"
+    },
+    "experience": {
+        "title": "Experience",
+        "royal_gel": {
+            "name": "Système de Gestion de Stock & Importations (Royal Gel)",
+            "description": "J'ai conçu et déployé une solution métier complète dédiée à l'optimisation logistique et à la traçabilité en temps réel des produits surgelés. L'application remplace les processus manuels par une interface centralisée gérant les flux de stocks, la génération automatisée de rapports PDF et un système d'alertes intelligentes pour les niveaux bas."
+        },
+        "task_manager": {
+            "name": "Persistent Task Manager",
+            "description": "Développement d'un gestionnaire de tâches haute performance en JavaScript pur. Système d'auto-sauvegarde instantanée garantissant la fiabilité des données en temps réel, offrant une interface réactive qui élimine tout risque de perte d'informations même après fermeture de session."
+        },
+        "todo_list": {
+            "name": "Interactive To-Do List",
+            "description": "Création d'une application de productivité moderne avec mémorisation intelligente des données. L'accent a été mis sur une navigation fluide et une expérience visuelle confortable pour une organisation quotidienne sans friction."
+        }
+    }
+}

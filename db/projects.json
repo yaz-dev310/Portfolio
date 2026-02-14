@@ -1,0 +1,17 @@
+{
+    "meteo": {
+        "name": "ma-todo-list",
+        "link": "https://ma-todo-list-vercel.vercel.app/",
+        "pic": "/ma-todo-list.png"
+    },
+    "portfolio": {
+        "name": "portfolio",
+        "link": "https://yazid-delta.vercel.app/",
+        "pic": "/yazid-delta.png"
+    },
+    "mcandco": {
+        "name": "T-d-list-simple",
+        "link": "https://t-d-list-simple.vercel.app/",
+        "pic": "/T-d-list-simple.png"
+    }
+}
