@@ -28,7 +28,7 @@ import { profileData } from '../data.js'
         <a 
           :href="profileData.cvLink" 
           class="bg-[#3b82f6] text-white px-4 py-2.5 rounded-lg font-semibold text-sm transition-all hover:bg-[#2563eb]"
-          download="Yazid - CV- FR.pdf"
+          download="cv.pdf"
         >
           <FileText :size="18" class="inline mr-1"/>
           <span>CV</span>
