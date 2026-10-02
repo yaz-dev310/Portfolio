@@ -28,8 +28,8 @@ const toggleContact = () => {
       class="mt-5 flex flex-col sm:flex-row justify-center items-center gap-3"
     >
       <a
-        href="mailto:yawarouna10@gmail.com"
-        class="inline-block px-5 py-3 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition-all duration-300"
+       href="mailto:yawarouna10@gmail.com?subject=Prise%20de%20contact%20depuis%20votre%20portfolio&body=Bonjour%20Arouna%20Yazid,%0A%0AJe%20vous%20contacte%20suite%20%C3%A0%20la%20visite%20de%20votre%20portfolio.%0A%0A" 
+       class="inline-block px-5 py-3 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition-all duration-300"
       >
         📧 Email
       </a>
